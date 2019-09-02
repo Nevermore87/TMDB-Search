@@ -11,6 +11,7 @@ import './Movie.css';
 
 
 
+
 class Movie extends Component{
     state={
         movie:null,
@@ -92,8 +93,8 @@ class Movie extends Component{
                     :null}
                     {!actors && !loading ? <h1>No movie found</h1>:null}
                     {loading ? <Spinner/>: null} 
-                }
-            }
+                
+            
             </div>
         )
     }

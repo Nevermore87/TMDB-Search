@@ -2,7 +2,7 @@
   "name": "the_movie_db_search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Nevermore87/TMDB-Search",
+  "homepage": "https://nevermore87.github.io/TMDB-Search/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.5.2",
